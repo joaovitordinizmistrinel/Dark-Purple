@@ -4,6 +4,11 @@
   <br>
 </h1>
 <br>
+
+<p align="center">
+  <img alt="my theme screenshot" src="./screenshot.png">
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-welcome-%235FCC6F.svg" alt="PRs welcome!" />
 
