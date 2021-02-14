@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
- Dark-Purple <a href="https://www.google.com/chrome">Google Chrome</a>
+ Dark-Purple Theme For <a href="https://www.google.com/chrome">Google Chrome</a>
   <br>
 </h1>
 <br>
