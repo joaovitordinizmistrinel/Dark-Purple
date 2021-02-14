@@ -1,0 +1,32 @@
+{
+  "name": "Dark-Purple",
+  "version": "1.0",
+  "description": "theme simple dark purple",
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "frame": [21, 18, 30],
+      "frame_inactive": [74, 64, 91],
+      "frame_incognito": [21, 18, 30],
+      "frame_incognito_inactive": [74, 64, 91],
+      "toolbar": [48, 42, 65],
+      "toolbar_button_icon": [225, 225, 230],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [152, 139, 199],
+      "tab_background_text_inactive": [152, 139, 199],
+      "tab_background_text_incognito": [152, 139, 199],
+      "tab_background_text_incognito_inactive": [152, 139, 199],
+      "bookmark_text": [225, 225, 230],
+      "ntp_background": [25, 22, 34],
+      "ntp_text": [225, 225, 230],
+      "ntp_link": [103, 228, 128]
+    },
+    "tints": {
+      "buttons": [0.69, 0.65, 0.66]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
