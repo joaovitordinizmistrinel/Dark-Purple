@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
- My theme for <a href="https://www.google.com/chrome">Google Chrome</a>
+ Dark-Purple <a href="https://www.google.com/chrome">Google Chrome</a>
   <br>
 </h1>
 <br>
 
 <p align="center">
-  <img alt="my theme screenshot" src="./screenshot.png">
+  <img alt="Dark-Purple-main" src="./screenshot.png">
 </p>
 
 <p align="center">
@@ -23,4 +23,4 @@
 1. Go to `chrome://extensions`
 2. Enable `Developer mode` <small>(top-right corner)</small>
 3. Click on `Load unpacked` button <small>(top-left corner)</small>
-4. Select the `my-theme-chrome` folder and done
+4. Select the `Dark-Purple-main` folder and done
